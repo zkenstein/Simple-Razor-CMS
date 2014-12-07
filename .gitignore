@@ -175,4 +175,8 @@ FakesAssemblies/
 
 # Apple DS Store Files
 
+#Webmatrix exclusions
+
 .DS_Store
+web.config
+_AppStart.cshtml
